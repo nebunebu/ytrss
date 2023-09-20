@@ -5,6 +5,7 @@ The RSS feeds for YouTube channels are limited to 15 initial entries and the off
 API is limited to 50. This script does not have such limits.
 
 ## Demo
+![Demo](./assets/ytrss.webm)
 
 ## Warnings
 - This script is not Posix complaint.
