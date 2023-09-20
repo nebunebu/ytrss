@@ -5,7 +5,7 @@ The RSS feeds for YouTube channels are limited to 15 initial entries and the off
 API is limited to 50. This script does not have such limits.
 
 ## Demo
-![Demo](https://youtu.be/hJcYlylv95w)
+[![Demo](https://i9.ytimg.com/vi/hJcYlylv95w/mqdefault.jpg?sqp=CKSDrqgG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgQShKMA8=&rs=AOn4CLDw_6lP6xmqdjDDGVrDX2GdRBnbOA)](https://youtu.be/hJcYlylv95w)
 ## Warnings
 - This script is not Posix complaint.
 - It is hardcoded to work with newsboat.
